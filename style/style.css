@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font);
+}
+
+:root{
+    --color-primary: #ce4902;
+    --font: "Open Sans", sans-seriff;
+}
+
+body{
+    width: 100%;
+    min-height: 100vh;
+}
+
+.top-bar{
+    background-color: #000;
+    border-bottom: 5px solid #ce4902;
+    padding: 15px;
+    text-align: center;
+    color: #fff;
+    font-size:1.3rem;
+    font-weight: bold;
+}
+
+.cabecalho{
+    max-width: 888px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.cabecalho .title{
+    margin-top: 60px;
+    font-size: 43px;
+    font-weight: bold;
+    line-height: 46px;
+}
+
+.cabecalho .sub-title{
+    font-size: 18px;
+    font-weight: 400;
+    margin: 15px 0 ;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.socials img{
+    width: 25px;
+    padding: 15px 5px 15px 0;
+}
+
+
