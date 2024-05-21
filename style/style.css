@@ -136,6 +136,15 @@ main .container .section-left p{
 }
 
 
+/* medias querys */
+
+@media screen and (max-width:768px){
+    .container .container .section-left{
+        width: 100%;
+    }
+}
+
+
 footer{
     background-color: black;
     text-align: center;
