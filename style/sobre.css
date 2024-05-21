@@ -13,8 +13,6 @@ body{
 }
 
 header{
-    position: fixed;
-    display: block;
     background-image: linear-gradient(to right, rgb(98, 6, 69), rgb(2, 2, 2));
 }
 
