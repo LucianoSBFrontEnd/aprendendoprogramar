@@ -140,7 +140,8 @@ main .container .section-left p{
 
 @media screen and (max-width:768px){
     .container .container .section-left{
-        width: 100%;
+        flex-direction: column;
+        
     }
 }
 
