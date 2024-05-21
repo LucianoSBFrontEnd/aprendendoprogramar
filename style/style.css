@@ -139,7 +139,7 @@ main .container .section-left p{
 /* medias querys */
 
 @media screen and (max-width:768px){
-    .container .container{
+    .container main .container{
         flex-direction: column;
 
     }
